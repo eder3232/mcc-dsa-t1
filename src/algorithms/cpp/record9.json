@@ -1,0 +1,122 @@
+{
+    "numeros_aleatorios_100.csv": {
+        "bubbleSort": 0.0,
+        "bucketSort": 0.0,
+        "countingSort": 0.0,
+        "insertionSort": 0.0,
+        "mergeSort": 0.001,
+        "quickSort": 0.0
+    },
+    "numeros_aleatorios_1000.csv": {
+        "bubbleSort": 0.005,
+        "bucketSort": 0.001,
+        "countingSort": 0.0,
+        "insertionSort": 0.004,
+        "mergeSort": 0.002,
+        "quickSort": 0.001
+    },
+    "numeros_aleatorios_10000.csv": {
+        "bubbleSort": 0.694475,
+        "bucketSort": 0.011002,
+        "countingSort": 0.001,
+        "insertionSort": 0.411998,
+        "mergeSort": 0.019999,
+        "quickSort": 0.020001
+    },
+    "numeros_aleatorios_2000.csv": {
+        "bubbleSort": 0.026001,
+        "bucketSort": 0.001998,
+        "countingSort": 0.0,
+        "insertionSort": 0.016002,
+        "mergeSort": 0.003,
+        "quickSort": 0.003998
+    },
+    "numeros_aleatorios_20000.csv": {
+        "bubbleSort": 2.629001,
+        "bucketSort": 0.014001,
+        "countingSort": 0.002996,
+        "insertionSort": 1.663012,
+        "mergeSort": 0.050995,
+        "quickSort": 0.061997
+    },
+    "numeros_aleatorios_3000.csv": {
+        "bubbleSort": 0.080007,
+        "bucketSort": 0.001994,
+        "countingSort": 0.0,
+        "insertionSort": 0.104004,
+        "mergeSort": 0.029996,
+        "quickSort": 0.061001
+    },
+    "numeros_aleatorios_30000.csv": {
+        "bubbleSort": 6.548568,
+        "bucketSort": 0.036992,
+        "countingSort": 0.006991,
+        "insertionSort": 4.077,
+        "mergeSort": 0.056999,
+        "quickSort": 0.06
+    },
+    "numeros_aleatorios_4000.csv": {
+        "bubbleSort": 0.099002,
+        "bucketSort": 0.003,
+        "countingSort": 0.0,
+        "insertionSort": 0.063998,
+        "mergeSort": 0.006999,
+        "quickSort": 0.007003
+    },
+    "numeros_aleatorios_40000.csv": {
+        "bubbleSort": 11.809184,
+        "bucketSort": 0.051987,
+        "countingSort": 0.007997,
+        "insertionSort": 7.380589,
+        "mergeSort": 0.073998,
+        "quickSort": 0.079001
+    },
+    "numeros_aleatorios_5000.csv": {
+        "bubbleSort": 0.160998,
+        "bucketSort": 0.003,
+        "countingSort": 0.001,
+        "insertionSort": 0.095999,
+        "mergeSort": 0.010002,
+        "quickSort": 0.008997
+    },
+    "numeros_aleatorios_50000.csv": {
+        "bubbleSort": 18.496725,
+        "bucketSort": 0.049,
+        "countingSort": 0.015,
+        "insertionSort": 10.570555,
+        "mergeSort": 0.089999,
+        "quickSort": 0.095003
+    },
+    "numeros_aleatorios_6000.csv": {
+        "bubbleSort": 0.253006,
+        "bucketSort": 0.005996,
+        "countingSort": 0.000998,
+        "insertionSort": 0.165033,
+        "mergeSort": 0.014969,
+        "quickSort": 0.013994
+    },
+    "numeros_aleatorios_7000.csv": {
+        "bubbleSort": 0.308003,
+        "bucketSort": 0.004999,
+        "countingSort": 0.0,
+        "insertionSort": 0.191005,
+        "mergeSort": 0.015999,
+        "quickSort": 0.018
+    },
+    "numeros_aleatorios_8000.csv": {
+        "bubbleSort": 0.438995,
+        "bucketSort": 0.006001,
+        "countingSort": 0.000998,
+        "insertionSort": 0.243,
+        "mergeSort": 0.014,
+        "quickSort": 0.015002
+    },
+    "numeros_aleatorios_9000.csv": {
+        "bubbleSort": 0.557998,
+        "bucketSort": 0.004999,
+        "countingSort": 0.001,
+        "insertionSort": 0.317001,
+        "mergeSort": 0.015,
+        "quickSort": 0.017001
+    }
+}

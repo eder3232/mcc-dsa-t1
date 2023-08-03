@@ -1,0 +1,122 @@
+{
+    "numeros_aleatorios_100.csv": {
+        "bubbleSort": 0.0005215000128373504,
+        "insertionSort": 0.00033870001789182425,
+        "mergeSort": 0.00013729999773204327,
+        "quickSort": 0.00015890004578977823,
+        "bucketSort": 8.999998681247234e-05,
+        "countingSort": 0.00012160011101514101
+    },
+    "numeros_aleatorios_1000.csv": {
+        "bubbleSort": 0.07568729994818568,
+        "insertionSort": 0.035211200010962784,
+        "mergeSort": 0.001988200005143881,
+        "quickSort": 0.0016418000450357795,
+        "bucketSort": 0.002291899989359081,
+        "countingSort": 0.0013472000136971474
+    },
+    "numeros_aleatorios_2000.csv": {
+        "bubbleSort": 0.16631450003478676,
+        "insertionSort": 0.1281883999472484,
+        "mergeSort": 0.003905200050212443,
+        "quickSort": 0.0034542999928817153,
+        "bucketSort": 0.0012676999904215336,
+        "countingSort": 0.002166499965824187
+    },
+    "numeros_aleatorios_3000.csv": {
+        "bubbleSort": 0.4369885000633076,
+        "insertionSort": 0.3354891000781208,
+        "mergeSort": 0.00608640001155436,
+        "quickSort": 0.007371600018814206,
+        "bucketSort": 0.003759099985472858,
+        "countingSort": 0.006156100076623261
+    },
+    "numeros_aleatorios_4000.csv": {
+        "bubbleSort": 0.768269200110808,
+        "insertionSort": 0.5801074000773951,
+        "mergeSort": 0.009449000004678965,
+        "quickSort": 0.007540500024333596,
+        "bucketSort": 0.0035976999206468463,
+        "countingSort": 0.0055976000148803
+    },
+    "numeros_aleatorios_5000.csv": {
+        "bubbleSort": 1.5202363999560475,
+        "insertionSort": 1.2241973999189213,
+        "mergeSort": 0.011887999949976802,
+        "quickSort": 0.01357180008199066,
+        "bucketSort": 0.005261100013740361,
+        "countingSort": 0.007454300066456199
+    },
+    "numeros_aleatorios_6000.csv": {
+        "bubbleSort": 2.020149899995886,
+        "insertionSort": 1.636455800035037,
+        "mergeSort": 0.013601399958133698,
+        "quickSort": 0.014867800055071712,
+        "bucketSort": 0.00562559999525547,
+        "countingSort": 0.009525400004349649
+    },
+    "numeros_aleatorios_7000.csv": {
+        "bubbleSort": 2.3929176999954507,
+        "insertionSort": 1.6909504000796005,
+        "mergeSort": 0.017910499940626323,
+        "quickSort": 0.015403699944727123,
+        "bucketSort": 0.004428100073710084,
+        "countingSort": 0.008892500074580312
+    },
+    "numeros_aleatorios_8000.csv": {
+        "bubbleSort": 2.9759097000351176,
+        "insertionSort": 2.177152600022964,
+        "mergeSort": 0.019203800009563565,
+        "quickSort": 0.017823099973611534,
+        "bucketSort": 0.006149000022560358,
+        "countingSort": 0.010285799973644316
+    },
+    "numeros_aleatorios_9000.csv": {
+        "bubbleSort": 3.7047730999765918,
+        "insertionSort": 2.7465233000693843,
+        "mergeSort": 0.02069819997996092,
+        "quickSort": 0.02141080005094409,
+        "bucketSort": 0.007416800013743341,
+        "countingSort": 0.015212500002235174
+    },
+    "numeros_aleatorios_10000.csv": {
+        "bubbleSort": 4.574209399987012,
+        "insertionSort": 3.464365700026974,
+        "mergeSort": 0.026772000011987984,
+        "quickSort": 0.021582999965175986,
+        "bucketSort": 0.008634200086817145,
+        "countingSort": 0.013001700048334897
+    },
+    "numeros_aleatorios_20000.csv": {
+        "bubbleSort": 29.326655499986373,
+        "insertionSort": 14.82827769999858,
+        "mergeSort": 0.05811109999194741,
+        "quickSort": 0.046887599979527295,
+        "bucketSort": 0.01645480003207922,
+        "countingSort": 0.02662130002863705
+    },
+    "numeros_aleatorios_30000.csv": {
+        "bubbleSort": 43.785805899999104,
+        "insertionSort": 32.6278663999401,
+        "mergeSort": 0.07818599999882281,
+        "quickSort": 0.07128899998497218,
+        "bucketSort": 0.026474999962374568,
+        "countingSort": 0.03948140004649758
+    },
+    "numeros_aleatorios_40000.csv": {
+        "bubbleSort": 85.74276269995607,
+        "insertionSort": 62.34466750000138,
+        "mergeSort": 0.11003890004940331,
+        "quickSort": 0.18809120007790625,
+        "bucketSort": 0.061337800114415586,
+        "countingSort": 0.0957305000629276
+    },
+    "numeros_aleatorios_50000.csv": {
+        "bubbleSort": 135.80787719995715,
+        "insertionSort": 128.13418600009754,
+        "mergeSort": 0.13418189994990826,
+        "quickSort": 0.1254105999832973,
+        "bucketSort": 0.046483000041916966,
+        "countingSort": 0.062341899960301816
+    }
+}

@@ -67,7 +67,7 @@ int main()
     {
         file << results.dump(4); // El parámetro 4 es la cantidad de espacios para formatear el JSON.
         file.close();
-        std::cout << "Resultados guardados en 'resultados.json'." << std::endl;
+        std::cout << "Resultados guardados en 'record.json'." << std::endl;
     }
     else
     {
